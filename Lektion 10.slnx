@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01 Boktitel/01 Boktitel.csproj" />
+  <Project Path="02 Egenskaper/02 Egenskaper.csproj" />
+  <Project Path="03 Standardkonstruktor/03 Standardkonstruktor.csproj" />
+  <Project Path="04 Enkel instansmetod/04 Enkel instansmetod.csproj" />
+</Solution>
