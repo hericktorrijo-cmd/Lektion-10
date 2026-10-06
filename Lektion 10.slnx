@@ -5,4 +5,8 @@
   <Project Path="04 Enkel instansmetod/04 Enkel instansmetod.csproj" />
   <Project Path="05 Flera objekt i en lista/05 Flera objekt i en lista.csproj" />
   <Project Path="06 Inkapsling med privad fält och validering/06 Inkapsling med privad fält och validering.csproj" />
+  <Project Path="07 Statisk vs Instansmetod/07 Statisk vs Instansmetod.csproj" />
+  <Project Path="08 Statiskt fält som Räknare/08 Statiskt fält som Räknare.csproj" />
+  <Project Path="09 Metodöverlagring/09 Metodöverlagring.csproj" />
+  <Project Path="10 Objektinteraktion/10 Objektinteraktion.csproj" />
 </Solution>
