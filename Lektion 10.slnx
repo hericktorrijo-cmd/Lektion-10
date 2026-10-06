@@ -3,4 +3,5 @@
   <Project Path="02 Egenskaper/02 Egenskaper.csproj" />
   <Project Path="03 Standardkonstruktor/03 Standardkonstruktor.csproj" />
   <Project Path="04 Enkel instansmetod/04 Enkel instansmetod.csproj" />
+  <Project Path="05 Flera objekt i en lista/05 Flera objekt i en lista.csproj" />
 </Solution>
