@@ -10,4 +10,6 @@
   <Project Path="09 Metodöverlagring/09 Metodöverlagring.csproj" />
   <Project Path="10 Objektinteraktion/10 Objektinteraktion.csproj" />
   <Project Path="11 Eget Enkelt Menysystem med Objekt/11 Eget Enkelt Menysystem med Objekt.csproj" Id="9efa8cd2-94a6-4071-9b27-e5378a798043" />
+  <Project Path="12 Beroendestruktur/12 Beroendestruktur.csproj" Id="5c97ea5c-37f9-4d93-b485-1f5ea91233fa" />
+  <Project Path="13 Bankomat med Inkapslad Logik/13 Bankomat med Inkapslad Logik.csproj" Id="607903b4-704d-4f13-ad01-a3ac8d84434d" />
 </Solution>
