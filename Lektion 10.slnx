@@ -9,4 +9,5 @@
   <Project Path="08 Statiskt fält som Räknare/08 Statiskt fält som Räknare.csproj" />
   <Project Path="09 Metodöverlagring/09 Metodöverlagring.csproj" />
   <Project Path="10 Objektinteraktion/10 Objektinteraktion.csproj" />
+  <Project Path="11 Eget Enkelt Menysystem med Objekt/11 Eget Enkelt Menysystem med Objekt.csproj" Id="9efa8cd2-94a6-4071-9b27-e5378a798043" />
 </Solution>
